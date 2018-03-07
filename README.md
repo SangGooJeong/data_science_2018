@@ -12,7 +12,7 @@
 - 1.4.1 [주피터 노트북](https://github.com/SangGooJeong/data_science_2018/blob/master/Chapter01/1.4.ipynb) 
 - 1.4.2 NumPy 
 - 1.4.3 SciPy 
-- 1.4.4 matplotlib 
+- 1.4.4 matplotlib ..
 - 1.4.5 pandas 
 - 1.4.6 mglearn 
 #### 1.5 파이썬 2 vs. 파이썬 3 
