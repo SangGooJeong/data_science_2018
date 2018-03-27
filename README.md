@@ -40,11 +40,11 @@
 - 2.3.1 [예제에 사용할 데이터셋](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.1%20Some%20Sample%20Datasets.ipynb) 
 - 2.3.2 [k-최근접 이웃](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.2%20k-Nearest%20Neighbor.ipynb) 
 - 2.3.3 [선형 모델](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.3%20Linear%20Models.ipynb) 
-- 2.3.4 [나이브 베이즈 분류기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.4.ipynb)
-- 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.5.ipynb) 
-- 2.3.6 [결정 트리의 앙상블](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.6.ipynb) 
-- 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
-- 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.8.ipynb) (by 3/27) 
+- 2.3.4 [나이브 베이즈 분류기](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.4%20Naive%20Bayes%20Classifier.ipynb)
+- 2.3.5 [결정 트리](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.5%20Decision%20Trees.ipynb) 
+- 2.3.6 [결정 트리의 앙상블](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.6%20Ensembles%20of%20Decision%20Trees.ipynb) 
+- 2.3.7 [커널 서포트 벡터 머신](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.7%20Kernelized%20Support%20Vector%20Machines.ipynb)
+- 2.3.8 [신경망(딥러닝)](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.3.8%20Neural%20Networks%20%28Deep%20Learning%29.ipynb)
 #### 2.4 [분류 예측의 불확실성 추정](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.4.ipynb) 
 - 2.4.1 결정 함수 
 - 2.4.2 예측 확률 
