@@ -57,10 +57,10 @@
 #### 3.1 비지도 학습의 종류 
 #### 3.2 비지도 학습의 도전 과제 
 #### 3.3 [데이터 전처리와 스케일 조정](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.3.ipynb) 
-- 3.3.1 여러 가지 전처리 방법 
-- 3.3.2 데이터 변환 적용하기 
-- 3.3.3 훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기 
-- 3.3.4 지도 학습에서 데이터 전처리 효과 (by 4/10)
+- 3.3.1 [여러 가지 전처리 방법](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.1%20Different%20Kinds%20of%20Preprocessing.ipynb)
+- 3.3.2 [데이터 변환 적용하기](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.2%20Applying%20Data%20Transformations.ipynb)
+- 3.3.3 [훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기 ](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.3%20Scaling%20Training%20and%20Test%20Data%20the%20Same%20Way.ipynb)
+- 3.3.4 [지도 학습에서 데이터 전처리 효과](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.4%20The%20Effect%20of%20Preprocessing%20on%20Supervised%20Learning.ipynb)
 #### 3.4 차원 축소, 특성 추출, 매니폴드 학습 
 - 3.4.1 [주성분 분석(PCA)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.1.ipynb) 
 - 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
