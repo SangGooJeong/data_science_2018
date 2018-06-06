@@ -62,9 +62,9 @@
 - 3.3.3 [훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기 ](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.3%20Scaling%20Training%20and%20Test%20Data%20the%20Same%20Way.ipynb)
 - 3.3.4 [지도 학습에서 데이터 전처리 효과](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.3.4%20The%20Effect%20of%20Preprocessing%20on%20Supervised%20Learning.ipynb)
 #### 3.4 차원 축소, 특성 추출, 매니폴드 학습 
-- 3.4.1 [주성분 분석(PCA)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.1.ipynb) 
-- 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
-- 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
+- 3.4.1 [주성분 분석(PCA)](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.1%20Principal%20Component%20Analysis%20%28PCA%29.ipynb) 
+- 3.4.2 [비음수 행렬 분해(NMF)](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.2%20Non-Negative%20Matrix%20Factorization%20%28NMF%29.ipynb) 
+- 3.4.3 [t-SNE를 이용한 매니폴드 학습](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.3%20Manifold%20Learning%20with%20t-SNE.ipynb) (by 4/17)
 #### 3.5 군집 
 - 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
 - 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
