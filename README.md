@@ -64,63 +64,63 @@
 #### 3.4 차원 축소, 특성 추출, 매니폴드 학습 
 - 3.4.1 [주성분 분석(PCA)](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.1%20Principal%20Component%20Analysis%20%28PCA%29.ipynb) 
 - 3.4.2 [비음수 행렬 분해(NMF)](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.2%20Non-Negative%20Matrix%20Factorization%20%28NMF%29.ipynb) 
-- 3.4.3 [t-SNE를 이용한 매니폴드 학습](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.3%20Manifold%20Learning%20with%20t-SNE.ipynb) (by 4/17)
+- 3.4.3 [t-SNE를 이용한 매니폴드 학습](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter03/3.4.3%20Manifold%20Learning%20with%20t-SNE.ipynb)
 #### 3.5 군집 
 - 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
 - 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
 - 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
 - 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
 - 3.5.5 군집 알고리즘 요약 
-#### 3.6 요약 및 정리 (by 4/24)
+#### 3.6 요약 및 정리
 
 <br/>
 
 ### CHAPTER 4 데이터 표현과 특성 공학 
-#### 4.1 [범주형 변수](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.1.ipynb) 
+#### 4.1 [범주형 변수](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.1%20Categorical%20Variables.ipynb) 
 - 4.1.1 원-핫-인코딩(가변수) 
 - 4.1.2 숫자로 표현된 범주형 특성 
-#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.2.ipynb) (by 5/1)  
-#### 4.3 [상호작용과 다항식](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.3.ipynb)  
-#### 4.4 [일변량 비선형 변환](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.4.ipynb) (by 5/8) 
-#### 4.5 [특성 자동 선택](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.5.ipynb)  
+#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.2%20Binning%2C%20Discretization%2C%20Linear%20Models%20and%20Trees.ipynb) 
+#### 4.3 [상호작용과 다항식](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.3%20Interactions%20and%20Polynomials.ipynb)  
+#### 4.4 [일변량 비선형 변환](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.4%20Univariate%20Non-linear%20transformations.ipynb)
+#### 4.5 [특성 자동 선택](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.5%20Automatic%20Feature%20Selection.ipynb)  
 - 4.5.1 일변량 통계 
 - 4.5.2 모델 기반 특성 선택 
 - 4.5.3 반복적 특성 선택 
-#### 4.6 [전문가 지식 활용](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.6.ipynb)  
-#### 4.7 요약 및 정리 (by 5/15)
+#### 4.6 [전문가 지식 활용](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter04/4.6%20Utilizing%20Expert%20Knowledge.ipynb)  
+#### 4.7 요약 및 정리
 
 <br/>
 
 ### CHAPTER 5 모델 평가와 성능 향상 
-#### 5.1 [교차 검증](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter05/5.1.ipynb)  
+#### 5.1 [교차 검증](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter05/5.1%20Cross-Validation.ipynb)  
 - 5.1.1 scikit-learn의 교차 검증 
 - 5.1.2 교차 검증의 장점 
 - 5.1.3 계층별 k-겹 교차 검증과 그외 전략들 
-#### 5.2 [그리드 서치](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter05/5.2.ipynb) 
+#### 5.2 [그리드 서치](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter05/5.2%20Grid%20Search.ipynb) 
 - 5.2.1 간단한 그리드 서치 
 - 5.2.2 매개변수 과대적합과 검증 세트 
-- 5.2.3 교차 검증을 사용한 그리드 서치 (by 5/22)
+- 5.2.3 교차 검증을 사용한 그리드 서치
 #### 5.3 평가 지표와 측정 
 - 5.3.1 최종 목표를 기억하라 
-- 5.3.2 [이진 분류의 평가 지표](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter05/5.3.2.ipynb) 
-- 5.3.3 [다중 분류의 평가 지표](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter05/5.3.3.ipynb) 
+- 5.3.2 [이진 분류의 평가 지표](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter05/5.2%20Grid%20Search.ipynb) 
+- 5.3.3 [다중 분류의 평가 지표](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter05/5.2%20Grid%20Search.ipynb) 
 - 5.3.4 회귀의 평가 지표 
-- 5.3.5 [모델 선택에서 평가 지표 사용하기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter05/5.3.5.ipynb) 
+- 5.3.5 [모델 선택에서 평가 지표 사용하기](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter05/5.2%20Grid%20Search.ipynb) 
 #### 5.4 요약 및 정리 (by 5/29)
 
 <br/>
 
 ### CHAPTER 6 알고리즘 체인과 파이프라인 
-#### 6.1 [데이터 전처리와 매개변수 선택](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.1.ipynb) 
-#### 6.2 [파이프라인 구축하기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.2.ipynb) 
-#### 6.3 [그리드 서치에 파이프라인 적용하기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.3.ipynb) 
-#### 6.4 [파이프라인 인터페이스](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.4.ipynb) 
+#### 6.1 [데이터 전처리와 매개변수 선택](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
+#### 6.2 [파이프라인 구축하기](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
+#### 6.3 [그리드 서치에 파이프라인 적용하기](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
+#### 6.4 [파이프라인 인터페이스](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
 - 6.4.1 make- pipleline을 사용한 파이프라인 생성 
 - 6.4.2 단계 속성에 접근하기 
 - 6.4.3 그리드 서치 안의 파이프라인 속성에 접근하기 
-#### 6.5 [전처리와 모델의 매개변수를 위한 그리드 서치](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.5.ipynb) 
-#### 6.6 [모델 선택을 위한 그리드 서치](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.6.ipynb) 
-#### 6.7 요약 및 정리 (by 6/5)
+#### 6.5 [전처리와 모델의 매개변수를 위한 그리드 서치](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
+#### 6.6 [모델 선택을 위한 그리드 서치](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter06/Algorithm%20Chains%20and%20Pipelines.ipynb) 
+#### 6.7 요약 및 정리
 
 <br/>
 
