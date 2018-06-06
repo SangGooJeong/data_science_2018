@@ -49,7 +49,7 @@
 - 2.4.1 [결정 함수](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.4.1.%20The%20Decision%20Tree.ipynb) 
 - 2.4.2 [예측 확률](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.4.2.%20Predicting%20Probabilities.ipynb) 
 - 2.4.3 [다중 분류에서의 불확실성](http://nbviewer.jupyter.org/github/SangGooJeong/data_science_2018/blob/master/Chapter02/2.4.3.%20Uncertainty%20in%20multi-class%20classification.ipynb)
-#### 2.5 요약 및 정리 (by 4/3)
+#### 2.5 요약 및 정리
 
 <br/>
 
